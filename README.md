@@ -1,4 +1,4 @@
-## Gestión de Base de Datos para la Farmacia
+## Gestión de Base de Datos para una farmacia
 
 ### Descripción:
 
